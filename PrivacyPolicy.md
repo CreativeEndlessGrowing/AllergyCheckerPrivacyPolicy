@@ -44,6 +44,9 @@
     commercially acceptable means of protecting it. But remember that no method of transmission over
     the internet, or method of electronic storage is 100% secure and reliable, and we cannot
     guarantee its absolute security.</p>
+<p>Allergy Checker should never be used to check if you can eat a product. Allergy Checker is meant to be a complement to 
+    check your allergies and food preferences. To ensure your safety to 100% read the descriptions by yourself 
+    on the product you want to scan</p>
 
 <p><strong>Links to Other Sites</strong></p>
 <p>This Service may contain links to other sites. If you click on a third-party link, you will be
