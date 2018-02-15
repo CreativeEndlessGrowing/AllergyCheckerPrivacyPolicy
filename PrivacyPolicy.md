@@ -46,7 +46,7 @@
     guarantee its absolute security.</p>
 <p>Allergy Checker should never be used to check if you can eat a product. Allergy Checker is meant to be a complement to 
     check your allergies and food preferences. To ensure your safety to 100% read the descriptions by yourself 
-    on the product you want to scan</p>
+    on the product</p>
 
 <p><strong>Links to Other Sites</strong></p>
 <p>This Service may contain links to other sites. If you click on a third-party link, you will be
